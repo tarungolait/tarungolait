@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tarungolait.github.io/myportfolio/](https://tarungolait.github.io/myportfolio/)
 
-- 📝 I regularly write articles on [https://tarungolait.github.io/myportfolio/](https://tarungolait.github.io/myportfolio
+- 📝 I regularly write articles on [https://tarungolait.github.io/myportfolio/](https://tarungolait.github.io/myportfolio/)
 
 - 💬 Ask me about **I am a computer science student deeply passionate about web development, DeFi, cryptocurrencies, and NFT art. With 3+ years of experience in DeFi and Web 3.0, I excel in AI-powered NFT creation, YouTube editing, and Canva for graphics. I recently freelanced as an NFT Designer at OpenSea, showcasing my collection "The AI Rarities." Pursuing a B.Tech in Computer Science, I stay updated on finance and crypto trends, eager to contribute to the convergence of technology, finance, and digital art. I hold certifications in data science, digital marketing, and social media marketing, enhancing my skill set.**
 
