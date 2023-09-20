@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **golaittarun@gmail.com**
 
-- 📄 Know about my experiences [https://tarungolait.github.io/My-Portfolio-Website/main/resume%20-%20Tarun%20Golait.pdf](https://tarungolait.github.io/My-Portfolio-Website/main/resume%20-%20Tarun%20Golait.pdf)
+- 📄 Know about my experiences [resume](https://drive.google.com/drive/u/1/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
