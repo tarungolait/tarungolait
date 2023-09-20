@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I am currently immersing myself in essential aspects of education, emphasizing Python programming, web development, and foundational knowledge in blockchain engineering. Additionally, I am developing proficiency in canvas editing to enhance my creative skills.**
 
-- 👨‍💻 All of my projects are available at [https://tarungolait.github.io/My-Portfolio-Website/](https://tarungolait.github.io/My-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://tarungolait.github.io/myportfolio/](https://tarungolait.github.io/myportfolio/)
 
 - 📝 I regularly write articles on [https://tarungolait.github.io/My-Portfolio-Website/](https://tarungolait.github.io/My-Portfolio-Website/)
 
