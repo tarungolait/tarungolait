@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Golait</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [The AI Rarities](https://opensea.io/collection/the-ai-rarities)
-
 - 🌱 I’m currently learning **I am currently immersing myself in essential aspects of education, emphasizing Python programming, web development, and foundational knowledge in blockchain engineering. Additionally, I am developing proficiency in canvas editing to enhance my creative skills.**
 
 - 👨‍💻 All of my projects are available at [this.](https://tarungolait.github.io/tarungolait-portfolio)
