@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [this.](https://tarungolait.github.io/tarungolait-portfolio)
 
 - 📝 I regularly write articles on [this.](https://tarungolait.github.io/tarungolait-portfolio)
-- 
+  
 - 📫 How to reach me **golaittarun@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1sFn5EZ1ZVvEzVMFrPXnn9XtJx5ScNe4x/view?usp=sharing)
